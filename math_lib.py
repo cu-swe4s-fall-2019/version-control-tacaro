@@ -3,3 +3,6 @@ def div(a, b):
         print("Can't divide by zero!")
     else:
         return a/b
+
+def add(a,b):
+    return a+b
